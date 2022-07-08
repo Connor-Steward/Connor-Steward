@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Connor-Steward
 - 👀 I’m interested in Python, Opensource Software and automating everything!
-- 🌱 I’m currently working on https://rl-alert.com
 
 
 
